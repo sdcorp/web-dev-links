@@ -70,6 +70,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Eslint+Prettier+Husky for TS](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project) - Eslint+Prettier+Husky for TypeScript project 🔥
 
+[My config files](https://github.com/sdcorp/configs) - List of my config files for different tools (ESlint, prettier, etc) 👀
+
 [Image Optimizer](https://tinypng.com/) - **Optimize you assets!** (png, jpg)
 
 [SVG Optimizer](https://jakearchibald.github.io/svgomg/) - **Although optimize SVG!**
