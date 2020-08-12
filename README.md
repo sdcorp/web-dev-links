@@ -29,6 +29,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 <summary><b>Expand Table of Contents</b></summary>
 
 - [Development environment and tools](#development-environment-and-tools)
+  - [Tools](#tools)
+  - [VSCode Extensions](#vscode-extensions)
 - [HTML + CSS](#html--css)
 - [JavaScript](#javascript)
 - [WEB ecosystem](#web-ecosystem)
@@ -62,8 +64,6 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [VS Code shortcuts MacOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf), [VS Code shortcuts Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf), [VS Code shortcuts Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) - VSCode shortcuts for making your work faster (Attention to sections: Rich languages editing, Multi-cursor and selection, Navigation) 🔥
 
-[VS Code extentions](https://medium.com/better-programming/how-to-use-vscode-like-a-pro-e120c428f45f) - Top 25 extentions for VSCode (TODO: update list later) 🔥
-
 [Emmet](https://docs.emmet.io/cheat-sheet/) - Write your HTML/CSS faster with Emmet (built-in VSCode) 🔥
 
 [Eslint/Prettier](https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062) - Keep your code clean with Eslint, Prettier
@@ -72,6 +72,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [My config files](https://github.com/sdcorp/configs) - List of my config files for different tools (ESlint, prettier, etc) 👀
 
+## Tools
+
 [Image Optimizer](https://tinypng.com/) - **Optimize you assets!** (png, jpg)
 
 [SVG Optimizer](https://jakearchibald.github.io/svgomg/) - **Although optimize SVG!**
@@ -79,6 +81,32 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 [Online Markdown Editor](https://stackedit.io) - Nice and convenient online Markdown editor
 
 [Box Shadow Generator](https://www.cssmatic.com/box-shadow) - Box-shadow generator and also another css-tools
+
+## VSCode Extensions
+
+- [Better comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - 👀
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - 👀
+- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) - 🔥
+- [CSS/SCSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules)
+- [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Highlight Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+- [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes) - 👀
+- [VSCode icons pack](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - 🔥
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - 🔥
+- [JS/React Code Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - 🔥
+- [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer) - 👀
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - 🔥
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - 👀
+- [SASS Extension](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+- [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo)
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - 👀
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 # HTML + CSS
 
