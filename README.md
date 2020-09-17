@@ -189,7 +189,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [List of custom hooks](https://usehooks.com) - List of custom react hooks 🔥
 
-[Library of custom hooks](https://usehooks.com) - Library of custom hooks 🔥
+[Library of custom hooks](https://github.com/streamich/react-use) - Library of custom hooks 🔥
 
 [React.memo, useMemo, useCallback](https://www.youtube.com/watch?v=o-alRbk_zP0) - Good explanation of React.memo, useMemo, useCallback by Ben Awad 👀
 
@@ -322,6 +322,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 - [TypeORM with TypeGraphQL](https://www.youtube.com/watch?v=WhzIjYQmWvs)
 
 - [JWT authorization using TypeORM/TypeGraphQL](https://www.youtube.com/watch?v=25GS0MLT8JU)
+
+- [Fullstack tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 
 ## ORM
 
