@@ -189,6 +189,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [List of custom hooks](https://usehooks.com) - List of custom react hooks 🔥
 
+[Library of custom hooks](https://usehooks.com) - Library of custom hooks 🔥
+
 [React.memo, useMemo, useCallback](https://www.youtube.com/watch?v=o-alRbk_zP0) - Good explanation of React.memo, useMemo, useCallback by Ben Awad 👀
 
 [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html) - Answers on popular questions about hooks 👀 
