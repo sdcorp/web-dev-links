@@ -135,7 +135,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Arrays methods](https://tproger.ru/translations/javascript-arrays-best-practices/) - Good article about useful arrays methods, theire difference, etc 🇷🇺 🔥
 
-[EventLoop talk](https://www.youtube.com/watch?v=j4_9BZezSUA) - Video about how EventLoop works by Jake Archibald 🔥
+[EventLoop talk](https://www.youtube.com/watch?v=j4_9BZezSUA) - Video about how EventLoop works by Jake Archibald 🇷🇺 🔥
 
 [EventLoop and tasks queues](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - Article about EventLoop, micro/macro tasks by Jake Archibald 🔥
 
