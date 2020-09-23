@@ -139,7 +139,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [EventLoop and tasks queues](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - Article about EventLoop, micro/macro tasks by Jake Archibald 🔥
 
-[Utility JS-functions](https://www.30secondsofcode.org/js/p/1) - List of utility-functions written on vanilla JS (have analogs from libs such as lodash, ramda) 👀
+[Utility JS-functions](https://www.30secondsofcode.org/js/p/1) - List of utility-functions written on vanilla JS (have analogs from libs such as lodash, ramda) 🔥
 
 [Lodash](https://lodash.com) - Utility library with a lot of useful functions 👀
 
