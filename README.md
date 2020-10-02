@@ -209,7 +209,9 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [React Query](https://github.com/tannerlinsley/react-query) - Library for data-fetching (similar to Apollo client) 🔥 💪
 
-[React Toastify](https://github.com/fkhadra/react-toastify) - Library for pop-up notifications
+[React Toastify](https://github.com/fkhadra/react-toastify) - Library for pop-up notifications 👀
+
+[React-Redux-Toastr](https://github.com/diegoddox/react-redux-toastr) - Library for pop-up notifications (deep Redux integration)
 
 [React Input Mask](https://github.com/sanniassin/react-input-mask) - Input mask
 
