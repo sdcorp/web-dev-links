@@ -197,7 +197,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 ## React ecosystem libraries
 
-[Classnames](https://github.com/JedWatson/classnames) - util-lib for dynamic classname changing
+[Clsx](https://github.com/lukeed/clsx) - util-lib for dynamic classname changing. Lighter version of [classnames](https://github.com/JedWatson/classnames)
 
 [React Hook Form](https://react-hook-form.com) - Awesome form-manager on hooks (has new approach rather than formik, react-final-form, redux-form) 🔥 💪
 
