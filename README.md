@@ -124,9 +124,9 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid) - A complete guide to grid by CSS Tricks 🔥
 
-[Grid basics](https://youtu.be/DCZdCKjnBCs) - CSS Grid basics in 45 minutes by Wes Bos 🔥
+[Grid basics](https://youtu.be/DCZdCKjnBCs) 📹 - CSS Grid basics in 45 minutes by Wes Bos 🔥
 
-[Playlist about CSS Grid](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG) - CSS grid on practise, use-cases by Wes Bos 🔥
+[Playlist about CSS Grid](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG) 📹 - CSS grid on practise, use-cases by Wes Bos 🔥
 
 
 # JavaScript
@@ -135,7 +135,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Arrays methods](https://tproger.ru/translations/javascript-arrays-best-practices/) - Good article about useful arrays methods, theire difference, etc 🇷🇺 🔥
 
-[EventLoop talk](https://www.youtube.com/watch?v=j4_9BZezSUA) - Video about how EventLoop works by Jake Archibald 🇷🇺 🔥
+[EventLoop talk](https://www.youtube.com/watch?v=j4_9BZezSUA) 📹 - Video about how EventLoop works by Jake Archibald 🇷🇺 🔥
 
 [EventLoop and tasks queues](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) - Article about EventLoop, micro/macro tasks by Jake Archibald 🔥
 
@@ -191,7 +191,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Library of custom hooks](https://github.com/streamich/react-use) - Library of custom hooks 🔥
 
-[React.memo, useMemo, useCallback](https://www.youtube.com/watch?v=o-alRbk_zP0) - Good explanation of React.memo, useMemo, useCallback by Ben Awad 👀
+[React.memo, useMemo, useCallback](https://www.youtube.com/watch?v=o-alRbk_zP0) 📹 - Good explanation of React.memo, useMemo, useCallback by [Ben Awad](https://github.com/benawad) 👀
 
 [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html) - Answers on popular questions about hooks 👀 
 
@@ -253,7 +253,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Redux Saga](https://habr.com/ru/post/351168/) - Redux-saga on practice. Comparison with redux-thunk 🇷🇺 👀
 
-[Context API vs Stage Management](https://gist.github.com/XaveScor/99431c573b53b8a0c41fb3b5fec522bc) - talk about Context API vs State management aka Redux 🇷🇺 👀
+[Context API vs Stage Management](https://gist.github.com/XaveScor/99431c573b53b8a0c41fb3b5fec522bc) - Talk about Context API vs State management aka Redux 🇷🇺 👀
 
 [Computing derived data](https://redux.js.org/recipes/computing-derived-data) - Redux selectors. ReSelect 👀
 
@@ -280,7 +280,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 # GraphQL (frontend)
 [Types-safe React Hooks](https://significa.co/blog/generating-typescript-types-and-react-hooks-based-on-graphql-endpoint) - Generating typed react hooks based on GraphQL schema using GraphQL code generator 🔥
 
-[GraphQL Talks](https://github.com/nodkz/conf-talks) - A lot of useful info, articles, talks about GraphQL and ecosystem by Pavel Chertorogov 🇷🇺 👀
+[GraphQL Talks](https://github.com/nodkz/conf-talks) - A lot of useful info, articles, talks about GraphQL and ecosystem by [Pavel Chertorogov](https://github.com/nodkz) 🇷🇺 👀
 
 # Testing
 
@@ -309,21 +309,23 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 ## GraphQL (backend)
 
-[GraphQL Talks](https://github.com/nodkz/conf-talks) - A lot of useful info, articles, talks about GraphQL and ecosystem by Pavel Chertorogov 🇷🇺 👀
+[GraphQL Talks](https://github.com/nodkz/conf-talks) - A lot of useful info, articles, talks about GraphQL and ecosystem by [Pavel Chertorogov](https://github.com/nodkz) 🇷🇺 👀
+
+[GraphQL Schema Design](https://github.com/nodkz/conf-talks/tree/master/articles/graphql/schema-design) - A set of tips/rules how to design GraphQL schema by [Pavel Chertorogov](https://github.com/nodkz) 🇷🇺 🔥
 
 [TypeGraphQL](https://typegraphql.com/) - A framework for GraphQL API in Node.js. (Awesome combination with TypeORM) 🔥
 
-### List of content about TypeORM+TypeGraphQL stack by Ben Awad: 🔥
+### List of videos about TypeORM+TypeGraphQL stack by [Ben Awad](https://github.com/benawad): 🔥
 
-- [TypeORM Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs)
+- [TypeORM Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs) 📹
 
-- [TypeGraphQL Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlmlo0GtSjIeWGXe_Ndo9sYd)
+- [TypeGraphQL Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlmlo0GtSjIeWGXe_Ndo9sYd) 📹
 
-- [TypeORM with TypeGraphQL](https://www.youtube.com/watch?v=WhzIjYQmWvs)
+- [TypeORM with TypeGraphQL](https://www.youtube.com/watch?v=WhzIjYQmWvs) 📹
 
-- [JWT authorization using TypeORM/TypeGraphQL](https://www.youtube.com/watch?v=25GS0MLT8JU)
+- [JWT authorization using TypeORM/TypeGraphQL](https://www.youtube.com/watch?v=25GS0MLT8JU) 📹
 
-- [Fullstack tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
+- [Fullstack tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8) 📹
 
 ## ORM
 
