@@ -286,11 +286,11 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 # Testing
 
-[Guide to testing React #1](https://www.rrebase.com/posts/full-guide-to-testing-javascript-react) - Full Guide to Testing JavaScript & React with Jest, React Testing Library, Cypress 👀
+[Guide to testing React #1](https://www.rrebase.com/posts/full-guide-to-testing-javascript-react) - Full Guide to Testing JavaScript & React with Jest, React Testing Library, Cypress 🔥
 
 [Guide to testing React #2](https://codeguida.com/post/2432) - Shortly about testing React 🇺🇦 👀
 
-[Guide to testing React #3](https://codeguida.com/post/1542) - Testing React components with Jest/Enzyme, what and how 🇺🇦 🔥
+[Guide to testing React #3](https://codeguida.com/post/1542) - Testing React components with Jest/Enzyme, what and how 🇺🇦 👀
 
 # Backend
 
