@@ -302,6 +302,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices) - NodeJS latest best practices 🔥
 
+[Authentication](https://github.com/alex996/presentations/blob/master/auth.md) - Authentication. Session, tokens. [Video reference](https://www.youtube.com/watch?v=2PPSXonhIck)
+
 [Http errors](https://github.com/jshttp/http-errors) - Create HTTP errors easily 👀
 
 
