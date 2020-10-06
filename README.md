@@ -199,6 +199,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Clsx](https://github.com/lukeed/clsx) - util-lib for dynamic classname changing. Lighter version of [classnames](https://github.com/JedWatson/classnames)
 
+[Fast Deep Compare](https://github.com/FormidableLabs/react-fast-compare) - The fastest deep equal comparison for React. Very quick general-purpose deep comparison, too. Great for React.memo and shouldComponentUpdate.
+
 [React Hook Form](https://react-hook-form.com) - Awesome form-manager on hooks (has new approach rather than formik, react-final-form, redux-form) 🔥 💪
 
 [React Select](https://react-select.com) - Advanced select with multiselect, autocomplete, async and creatable support 🔥 💪
