@@ -283,6 +283,10 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [React+TS cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - React Typescript Cheatsheet, how to use TS with React properly 🔥
 
+[Typescript Advanced](https://www.youtube.com/watch?v=7NU6K4170As) 📹 - Typescript Advanced crash course by Vladilen Minin 👀
+
+[React+TS tutorial](https://www.youtube.com/watch?v=Z5iWr6Srsj8) 📹 - React+TS tutorial by [Ben Awad](https://github.com/benawad) 👀
+
 # GraphQL (frontend)
 [Types-safe React Hooks](https://significa.co/blog/generating-typescript-types-and-react-hooks-based-on-graphql-endpoint) - Generating typed react hooks based on GraphQL schema using GraphQL code generator 🔥
 
