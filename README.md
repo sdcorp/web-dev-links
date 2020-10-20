@@ -18,6 +18,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 💪 - Complicated library, which requires a lot of additional time to explore documentation and all features
 
+📹 - Video
+
 ---
 
 <div align="left">
