@@ -343,4 +343,6 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Mongoose](https://mongoosejs.com/) - MongoDB ORM 👀
 
+[Mongoose plugins](https://plugins.mongoosejs.io) - Mongoose plugins (pagination, populate, etc) 👀
+
 [TypeORM](https://typeorm.io/) - Great ORM used with TypeScript (supports MySQL / MariaDB / Postgres / SQLite / MongoDB) 🔥
