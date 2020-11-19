@@ -171,6 +171,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Observers in JavaScript](https://dev.to/tkudlinski/mutationobserver-intersectionobserver-resizeobserver-what-why-how-235f ) - Observers in JavaScript. What and why we need them? 👀
 
+[Web Performance](https://3perf.com/talks/web-perf-101) - Optimizing JS, CSS, HTTP, images & fonts 🔥
+
 # Git
 
 [Git Guide](https://flaviocopes.com/git/) - The complete Git guide by Flavio Copes 👀
