@@ -187,6 +187,8 @@ I excluded some obvious things from this list, but if you see anything wrong or 
  
 # React
 
+[Component Lifecycle](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) - Component Lifecycle diagramm 👀
+
 [SetState is async](https://reactjs.org/docs/hooks-reference.html#functional-updates) - Update your state wisely. [For class-based](https://reactjs.org/docs/state-and-lifecycle.html#state-updates-may-be-asynchronous) 👀
 
 [Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) - A complete guide to useEffect by Dan Abramov 👀
