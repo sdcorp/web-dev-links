@@ -39,7 +39,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 - [Git](#git)
 - [React](#react)
   - [React ecosystem libraries](#react-ecosystem-libraries)
-- [Redux](#react)
+- [Redux](#redux)
   - [Redux ecosystem libraries](#redux-ecosystem-libraries)
 - [TypeScript](#typescript)
 - [GraphQL (frontend)](#graphql-frontend)
