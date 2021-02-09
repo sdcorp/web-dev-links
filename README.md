@@ -203,11 +203,13 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html) - Answers on popular questions about hooks 👀 
 
+[React Best Practices](https://alexkondov.com/tao-of-react/) - **Opinionated** Software Design, Architecture & Best Practices in React 🔥
+
 ## React ecosystem libraries
 
 [Clsx](https://github.com/lukeed/clsx) - util-lib for dynamic classname changing. Lighter version of [classnames](https://github.com/JedWatson/classnames)
 
-[Fast Deep Compare](https://github.com/FormidableLabs/react-fast-compare) - The fastest deep equal comparison for React. Very quick general-purpose deep comparison, too. Great for React.memo and shouldComponentUpdate.
+[Fast Deep Compare](https://github.com/FormidableLabs/react-fast-compare) - The fastest deep equal comparison for React. Very quick general-purpose deep comparison, too. Great for `React.memo` and `shouldComponentUpdate`.
 
 [React Hook Form](https://react-hook-form.com) - Awesome form-manager on hooks (has new approach rather than formik, react-final-form, redux-form) 🔥 💪
 
