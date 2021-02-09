@@ -143,7 +143,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Utility JS-functions](https://www.30secondsofcode.org/js/p/1) - List of utility-functions written on vanilla JS (have analogs from libs such as lodash, ramda) 🔥
 
-[Lodash](https://lodash.com) - Utility library with a lot of useful functions 👀
+[Lodash](https://lodash.com) - Utility library with a lot of useful functions (Not recommending to use it now and suggesting to replace it by ES6 analogs)
 
 [Ramda](https://ramdajs.com/) - Utility functional library with a lot of useful functions
 
@@ -203,7 +203,7 @@ I excluded some obvious things from this list, but if you see anything wrong or 
 
 [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html) - Answers on popular questions about hooks 👀 
 
-[React Best Practices](https://alexkondov.com/tao-of-react/) - **Opinionated** Software Design, Architecture & Best Practices in React 🔥
+[React Best Practices](https://alexkondov.com/tao-of-react/) - **Opinionated** Software Design, Architecture & Best Practices in React by Alex Kondov 🔥
 
 ## React ecosystem libraries
 
